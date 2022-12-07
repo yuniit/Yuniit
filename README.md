@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on building web applications for users in my area
 - 🌱 I'm currently learning Flutter & React
-- 😄 Fun fact: All my works are private 
+- 😄 Fun fact: All my works are private on [Gitlab](https://gitlab.com/yuniit)
 
 #### Languages
 
